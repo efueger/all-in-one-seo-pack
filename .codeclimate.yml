@@ -22,6 +22,10 @@ engines:
         enabled: false
       Controversial/CamelCaseClassName:
         enabled: false
+      Controversial/CamelCaseParameterName:
+        enabled: false
+      Controversial/CamelCaseMethodName:
+        enabled: false
 ratings:
   paths:
   - "**.css"
