@@ -18,6 +18,10 @@ engines:
     checks:
       Controversial/CamelCasePropertyName:
         enabled: false
+      Controversial/CamelCaseVariableName:
+        enabled: false
+      Controversial/CamelCaseClassName:
+        enabled: false
 ratings:
   paths:
   - "**.css"
